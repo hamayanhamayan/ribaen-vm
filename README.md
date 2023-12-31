@@ -1,4 +1,4 @@
-# ribaen-vm
+# Ribaen VM
 
 ```
 curl https://raw.githubusercontent.com/hamayanhamayan/ribaen-vm/main/get-ribaen-vm.sh | sudo bash
